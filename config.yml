@@ -1,0 +1,5 @@
+languageCode: "en"
+theme:        "minima"
+
+minima:
+  skin:       "solarized-dark"
