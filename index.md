@@ -1,5 +1,4 @@
 ---
-title: localdev.it
 ---
 
 # localdev.it
