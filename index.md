@@ -1,10 +1,8 @@
 ---
+title: A local catch-all DNS domain
 ---
 
-## a local catch-all DNS name
-
-### local names with zero setup
-
+#### local names with zero setup
 
 A zero setup local catch-all. No dnsmasq setup, no Acrylic DNS setup.
 
